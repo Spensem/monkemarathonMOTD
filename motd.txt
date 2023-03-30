@@ -1,2 +1,6 @@
 Welcome to Monke Marathon!
-Me and The Team hope you enjoy!
+We added alot of stuff!
+-Blinking Added
+-Colors replaced with RGB Colors
+-Bugs fixed
+Join the discord! https://discord.gg/n2fNG6UJam
