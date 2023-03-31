@@ -1,6 +1,6 @@
 Welcome to Monke Marathon!
 New stuff has been added!
-RGB Colors
-Leaderboard
-New Wood Hitsound
+Mute/Unmute button on the Boombox
+Rules
+Credits on the computer
 Have fun and subscribe to SpensemVR on youtube!
